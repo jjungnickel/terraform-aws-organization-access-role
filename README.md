@@ -14,7 +14,7 @@ https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_accounts_
 
 ---
 
-This project is part of our comprehensive ["SweetOps"](https://docs.cloudposse.com) approach towards DevOps. 
+This project is part of our comprehensive ["SweetOps"](https://docs.cloudposse.com) approach towards DevOps.
 
 
 It's 100% Open Source and licensed under the [APACHE2](LICENSE).
@@ -148,9 +148,9 @@ File a GitHub [issue](https://github.com/cloudposse/terraform-aws-organization-a
 
 ## Commercial Support
 
-Work directly with our team of DevOps experts via email, slack, and video conferencing. 
+Work directly with our team of DevOps experts via email, slack, and video conferencing.
 
-We provide [*commercial support*][commercial_support] for all of our [Open Source][github] projects. As a *Dedicated Support* customer, you have access to our team of subject matter experts at a fraction of the cost of a full-time engineer. 
+We provide [*commercial support*][commercial_support] for all of our [Open Source][github] projects. As a *Dedicated Support* customer, you have access to our team of subject matter experts at a fraction of the cost of a full-time engineer.
 
 [![E-Mail](https://img.shields.io/badge/email-hello@cloudposse.com-blue.svg)](mailto:hello@cloudposse.com)
 
@@ -160,7 +160,7 @@ We provide [*commercial support*][commercial_support] for all of our [Open Sourc
 - **Bug Fixes.** We'll rapidly work to fix any bugs in our projects.
 - **Build New Terraform Modules.** We'll develop original modules to provision infrastructure.
 - **Cloud Architecture.** We'll assist with your cloud strategy and design.
-- **Implementation.** We'll provide hands-on support to implement our reference architectures. 
+- **Implementation.** We'll provide hands-on support to implement our reference architectures.
 
 
 ## Community Forum
@@ -194,9 +194,9 @@ Copyright © 2017-2018 [Cloud Posse, LLC](https://cloudposse.com)
 
 
 
-## License 
+## License
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 See [LICENSE](LICENSE) for full details.
 
@@ -237,7 +237,7 @@ This project is maintained and funded by [Cloud Posse, LLC][website]. Like it? P
 
 We're a [DevOps Professional Services][hire] company based in Los Angeles, CA. We love [Open Source Software](https://github.com/cloudposse/)!
 
-We offer paid support on all of our projects.  
+We offer paid support on all of our projects.
 
 Check out [our other projects][github], [apply for a job][jobs], or [hire us][hire] to help with your cloud strategy and implementation.
 
